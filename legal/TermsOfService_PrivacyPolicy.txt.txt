@@ -1,0 +1,83 @@
+## **TERMS OF SERVICE AGREEMENT**  
+
+This Terms of Service Agreement (the "Agreement") is entered into between **Desk_Station** ("Service Provider") and the user ("User") of the **Desk_Station** application (the "Service").  
+
+By using the Service, the User agrees to be bound by the terms of this Agreement. If the User does not agree to the terms of this Agreement, they should immediately discontinue use of the Service.  
+
+### 1. **Use of the Service**  
+The Service Provider grants the User a non-exclusive, non-transferable, limited license to use the Service for personal, non-commercial purposes in compliance with this Agreement.  
+
+### 2. **Prohibited Use**  
+The User agrees not to:  
+- Use the Service in a manner that violates any applicable laws, regulations, or third-party rights.  
+- Attempt to modify, reverse-engineer, or exploit the Service in unauthorized ways.  
+- Use the Service to spread harmful, abusive, or illegal content.  
+- Engage in any commercial activity involving the Service without express written consent from the Service Provider.  
+
+### 3. **Limitation of Liability**  
+The Service Provider shall not be liable for any direct, indirect, incidental, or consequential damages arising from the use or inability to use the Service, including but not limited to loss of data, service disruptions, or unauthorized access.  
+
+### 4. **Modifications to the Service**  
+The Service Provider reserves the right to modify, update, or discontinue the Service at any time without prior notice. The User agrees that the Service Provider is not liable for any changes or termination of the Service.  
+
+### 5. **Intellectual Property**  
+All intellectual property rights related to **Desk_Station** remain the property of the Service Provider. The User may not copy, modify, or distribute any part of the Service without explicit permission.  
+
+### 6. **Indemnification**  
+The User agrees to indemnify and hold harmless the Service Provider and its affiliates from any claims, damages, or liabilities resulting from their use of the Service.  
+
+### 7. **Termination**  
+This Agreement may be terminated by either party at any time. Upon termination, the User must cease all use of the Service.  
+
+### 8. **Governing Law**  
+This Agreement is governed by the laws of the **United Kingdom**. Any disputes shall be resolved in accordance with UK law.  
+
+### 9. **Entire Agreement**  
+This Agreement constitutes the entire understanding between the User and the Service Provider, superseding any prior agreements.  
+
+By using **Desk_Station**, the User acknowledges that they have read and agreed to these Terms of Service.  
+
+---
+
+## **PRIVACY POLICY**  
+
+**Effective Date:** [Insert Date]  
+
+### **1. Introduction**  
+This Privacy Policy explains how **Desk_Station** ("we", "our", or "us") collects, uses, and protects User data when using our Discord application.  
+
+### **2. Information We Collect**  
+When using **Desk_Station**, we may collect the following data:  
+- **Discord User Information**: Username, User ID, and server-related data, as required for core functionalities.  
+- **Usage Data**: Logs and interactions with the application.  
+- **Technical Data**: IP address, device type, and Discord API interactions.  
+
+We **do not** collect or store sensitive personal data such as passwords or private messages.  
+
+### **3. How We Use Your Information**  
+We use collected data to:  
+- Provide and maintain the **Desk_Station** service.  
+- Improve user experience and optimize application performance.  
+- Ensure compliance with Discord’s API policies and community guidelines.  
+
+### **4. Data Sharing and Security**  
+- We **do not** sell or share User data with third parties.  
+- User data is only used within **Desk_Station** for the purposes described in this policy.  
+- We take reasonable measures to protect User data from unauthorized access or misuse.  
+
+### **5. User Rights and Data Removal**  
+Users have the right to:  
+- Request access to the data we store.  
+- Request deletion of personal data.  
+- Withdraw consent for data collection at any time.  
+
+To request data removal, please contact deskstationapp@gmail.com.  
+
+### **6. Changes to this Policy**  
+We reserve the right to modify this Privacy Policy at any time. Changes will be posted on our official channels, and continued use of **Desk_Station** constitutes acceptance of the new terms.  
+
+### **7. Contact Information**  
+For questions about this Privacy Policy, contact us at deskstationapp@gmail.com.  
+
+By using the Application, you acknowledge that you have read and understood this Privacy Policy and consent to our data practices.
+
